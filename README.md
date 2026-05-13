@@ -18,6 +18,7 @@ config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-l
 
 ![2](/screenshots/2.png)
 
+- **Click, to show video clip:**
  [![**Click, to show video clip:**](/screenshots/o0o.png)](https://youtu.be/IWUdhrWUbv8?si=Ob2Vw1cnwkgiTmsb)
 
 
