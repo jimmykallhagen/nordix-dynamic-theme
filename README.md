@@ -159,7 +159,8 @@ gtk4
 ## Add Path
 
 ```Fish
-echo 'PATH="/usr/lib/nordix/yggdrasil/bin:$PATH"' >>  ~/.profile```
+echo 'PATH="/usr/lib/nordix/yggdrasil/bin:$PATH"' >>  ~/.profile
+```
 ---
 
 ## Environment Varibles
