@@ -37,14 +37,14 @@ config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-l
 
 **awww: For images and gif's - resource efficient, needs to generate cache**
 ```Fish
-❯ pacman -S \
+pacman -S \
 awww
 ```
 
 **mpvpaper: For images, gif's and videos - resource heavy, should be turned off when gaming, use nordix mpv-config to run on GPU and aneble some quality options**
 
 ```Fish
-❯ paru -S \
+paru -S \
 mpvpaper
 ```
 ---
@@ -60,7 +60,7 @@ swengine
 ## Pywall16 and Color Backends
 
 ```Fish
-❯ paru -S \
+paru -S \
 python-pywal16 \
 python-pywalfox-librewolf \
 python-fast-colorthief \
@@ -69,7 +69,7 @@ colorz
 ```
 
 ```Fish
-❯ pacman -S \
+pacman -S \
 python-colorthief
 ```
 
@@ -79,28 +79,27 @@ python-colorthief
 
 ### Icon Theme
 ```Fish
-❯ pacman -S \
+pacman -S \
 cosmic-icon-theme
 ```
 
 ### Font
 ```Fish
-❯ paru -S \
+paru -S \
 ttf-comfortaa
 ```
 ```Fish
-❯ pacman -S \
+pacman -S \
 ttf-monofur
 ```
-> **comfortaa for applications and for monofur terminal and similar**
-
+ > **comfortaa for applications and for monofur terminal and similar**
 
 ---
 
 ## KDE implementation
 
 ```Fish
-❯ pacman -S \
+pacman -S \
 frameworkintegration \
 xdg-desktop-portal-kde \
 kwayland-integration \
@@ -111,7 +110,7 @@ kdeclarative
 
 **GTK-3, GTK4**
 ```Fish
-❯ pacman -S \
+pacman -S \
 gtk3 \
 gtk4
 ```
