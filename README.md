@@ -159,7 +159,7 @@ gtk4
 ## Add Path
 
 ```Fish
-echo "#PATH="/usr/lib/nordix/yggdrasil/bin:$PATH"
+echo '#PATH="/usr/lib/nordix/yggdrasil/bin:$PATH"'
 ```
 ---
 
