@@ -19,9 +19,7 @@ config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-l
 
 ![2](/screenshots/2.png)
 
-[![t-lagre-for-github]](https://youtu.be/IWUdhrWUbv8?si=Ob2Vw1cnwkgiTmsb)
-
-(http://img.youtu.be/IWUdhrWUbv8?si=Ob2Vw1cnwkgiTmsb.jpg)]
+[![t-lagre-for-github](https://github.com/jimmykallhagen/nordix-dynamic-theme/blob/main/screenshots/ooo.png)](https://youtu.be/IWUdhrWUbv8?si=Ob2Vw1cnwkgiTmsb)
 
 ** More screenshots on the Yggdrasil repo:
 
