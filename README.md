@@ -6,9 +6,9 @@ Nordix wallpaper loop changes wallpaper after a certain number of secm, it uses 
 
 config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-loop.sh in ~/config/nordix/nordix-theme
 
- - [**nordix-wallpaper-loop.conf**](nordix-wallpaper-loop.conf)
+ - [**nordix-wallpaper-loop.conf**](https://github.com/jimmykallhagen/nordix-dynamic-theme/blob/main/nordix-wallpaper-loop-conf.md)
 
- - [**nordix-dynamic-theme-conf**](nordix-dynamic-theme-conf.md)
+ - [**nordix-dynamic-theme-conf**](https://github.com/jimmykallhagen/nordix-dynamic-theme/blob/main/nordix-dynamic-theme-conf.md)
 
 ---
 
