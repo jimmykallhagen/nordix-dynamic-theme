@@ -124,6 +124,8 @@ gtk4
           │  ├──libadwaita-tweaks.css -> ~/.cache/wal/nordix-dynamic-libadwaita-theme.css
           │  └──settings.ini
           ├──kdeglobals
+          ├──mpv
+          |  └──mpv.conf
           ├──nordix
           |  └──nordix-theme
           |     ├──nordix-dynamic-theme.conf
@@ -133,8 +135,7 @@ gtk4
           │     ├──nordix-dynamic-gtk-theme.css
           │     └──nordix-dynamic-libadwaita-theme.css
           └──waypaper
-             ├──config.ini
-             └──nordix-dynamic-theme.py     
+             └──config.ini    
 ```
 ```Fish
 ❯ tree ~/.themes
