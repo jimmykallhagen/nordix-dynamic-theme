@@ -1,8 +1,10 @@
 # Nordix dynamic theme and nordix walpper loop.
 
-Uses pywal16, waypaper, mpvpaper. It takes color samples from your wallpaper and creates a dynamic theme for GTK-3, GTK-4 and QT.
+> Uses pywal16, waypaper, mpvpaper. It takes color samples from your wallpaper and creates a dynamic theme for GTK-3, GTK-4 and QT.
 
-Nordix wallpaper loop changes wallpaper after a certain number of secm, it uses waypaper to randomly choose a new wallpaper in ~/Pictures/wallpapers - only with awww as backend, with mpvpaper you can open waypaper gui and stop the current video/gif/picture and start a new wallpaper, nordix dynamic theme works with both awww and mvppaper.
+> Nordix wallpaper loop changes wallpaper after a certain number of secm, it uses waypaper to randomly choose a new wallpaper in ~/Pictures/wallpapers - only with awww as backend, with mpvpaper you can open waypaper gui and stop the current video/gif/picture and start a new wallpaper, nordix dynamic theme works with both awww and mvppaper.
+
+---
 
 config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-loop.sh in ~/config/nordix/nordix-theme
 
@@ -26,10 +28,7 @@ config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-l
 
 - [**Yggdrasil**](https://github.com/jimmykallhagen/Yggdrasil)
 
-
-
 ---
-
 
 # Wallpaper Backend
 
@@ -155,6 +154,13 @@ gtk4
                  └──nordix-wallpaper-loop.sh
 ```
 
+---
+
+## Add Path
+
+```Fish
+echo "#PATH="/usr/lib/nordix/yggdrasil/bin:$PATH"
+```
 ---
 
 ## Environment Varibles
