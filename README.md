@@ -156,19 +156,30 @@ gtk4
 
 ---
 
+
+## Environment Varibles
+Put the environment variables where you consider them most appropriate, in /etc/profile.d or preferably in ~/.profile if your desktop environment does not have a special place for env
+
+- ❯ ICON_THEME=Cosmic
+- ❯ QT_QPA_PLATFORM=wayland;xcb
+- ❯ QT_QPA_PLATFORMTHEME=kde
+- ❯ GTK_THEME=nordix-dynamic-theme
+- ❯ MOZ_GTK_TITLEBAR_DECORATION=0
+- ❯ MOZ_ENABLE_WAYLAND=1
+  
+```Fish
+echo "
+ICON_THEME=Cosmic
+QT_QPA_PLATFORM=wayland;xcb
+QT_QPA_PLATFORMTHEME=kde
+GTK_THEME=nordix-dynamic-theme
+MOZ_GTK_TITLEBAR_DECORATION=0
+MOZ_ENABLE_WAYLAND=1" >> ~/.profile
+```
+
 ## Add Path
 
 ```Fish
 echo 'PATH="/usr/lib/nordix/yggdrasil/bin:$PATH"' >>  ~/.profile
 ```
 ---
-
-## Environment Varibles
-```Fish
-❯ ICON_THEME=Cosmic
-❯ QT_QPA_PLATFORM=wayland;xcb
-❯ QT_QPA_PLATFORMTHEME=kde
-❯ GTK_THEME=nordix-dynamic-theme
-❯ MOZ_GTK_TITLEBAR_DECORATION=0
-❯ MOZ_ENABLE_WAYLAND=1
-```
