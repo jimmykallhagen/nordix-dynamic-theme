@@ -30,7 +30,7 @@ config file is available for both nordix-dynamic-theme.py and nordix-wallpaper-l
 
 ---
 
-# Wallpaper Backend
+## Wallpaper Backend
 
  - awww
  - mpvpaper 
@@ -46,6 +46,13 @@ awww
 ```Fish
 ❯ paru -S \
 mpvpaper
+```
+---
+
+## Wallpaper Store for Gif and Pitcures
+```Fish
+paru -S \
+swengine
 ```
 
 ---
